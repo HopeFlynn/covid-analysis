@@ -53,6 +53,10 @@ This project provides an in-depth analysis of global COVID-19 data sourced from 
 
 * **Our World in Data:** [owid-covid-data.csv](https://ourworldindata.org/coronavirus)
 
-##![Total COVID-19 Cases Over Time](images/Screenshot-total)
-##![Choropleth Map of COVID-19 Cases](images/Screenshot-map)
+## Visualizations
+
+![Total COVID-19 Cases Over Time](images/Screenshot-total.png)
+
+![Choropleth Map of COVID-19 Cases](images/Screenshot-map.png)
+
 
