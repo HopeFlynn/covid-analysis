@@ -53,8 +53,3 @@ This project provides an in-depth analysis of global COVID-19 data sourced from 
 
 * **Our World in Data:** [owid-covid-data.csv](https://ourworldindata.org/coronavirus)
 
-## Visualizations
-
-![Total COVID-19 Cases Over Time](images/Totalcases.png)
-![Total Vaccinations](https://raw.githubusercontent.com/HopeFlynn/covid-analysis/main/images/Total-vaccinations.png)
-![Choropleth Map of COVID-19 Cases](images/map.png)
