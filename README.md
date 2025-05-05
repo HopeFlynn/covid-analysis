@@ -55,10 +55,6 @@ This project provides an in-depth analysis of global COVID-19 data sourced from 
 
 ## Visualizations
 
-![Total COVID-19 Cases Over Time]()
-
-![Total Vaccinations Over Time](https://github.com/HopeFlynn/covid-analysis/blob/main/images/Total-vaccinations.png)
-
+![Total COVID-19 Cases Over Time](images/Totalcases.png)
+![Total Vaccinations Over Time](images/Total-Vaccinations.png)
 ![Choropleth Map of COVID-19 Cases](images/map.png)
-
-
