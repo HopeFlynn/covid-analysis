@@ -53,3 +53,6 @@ This project provides an in-depth analysis of global COVID-19 data sourced from 
 
 * **Our World in Data:** [owid-covid-data.csv](https://ourworldindata.org/coronavirus)
 
+![Total Covid Cases](images/Totalcases.png)
+
+
