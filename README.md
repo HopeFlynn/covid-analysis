@@ -56,5 +56,5 @@ This project provides an in-depth analysis of global COVID-19 data sourced from 
 ## Visualizations
 
 ![Total COVID-19 Cases Over Time](images/Totalcases.png)
-![Total Vaccinations Over Time](images/Total-Vaccinations.png)
+![Total Vaccinations Over Time](images/Total-vaccinations.png)
 ![Choropleth Map of COVID-19 Cases](images/map.png)
